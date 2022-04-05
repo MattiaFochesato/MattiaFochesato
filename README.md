@@ -1,50 +1,57 @@
-
-
-<h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I am <a href="https://github.com/MattiaFochesato">Mattia</a> <img src="https://emojis.slackmojis.com/emojis/images/1463614042/443/verified.png?1463614042" width="30px"></h1>
+<h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I am Mattia</a>
 </h1>
 
-#### 📬 You can find me at
-[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/MattiaFochesato/)](https://github.com/MattiaFochesato/) 
+
+I am a **freelance** developer who loves his job. I **graduated**🎓 from the University of Verona, and now I’m attending the **Apple Developer Academy**in Naples.<br/><br/>
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mattia-fochesato-9b2091126/)](https://www.linkedin.com/in/mattia-fochesato-9b2091126/)
-
-
-
-
-
-### About me  <img src="https://emojis.slackmojis.com/emojis/images/1563481443/6027/meow_wow.png?1563481443" width="20"> 
-I am a **freelance** developer who loves his job. I **graduated**🎓 in computer science at the University of Verona and now i'm attending the **Apple Developer Academy** in Naples.<br/><br/>
-
-
-
 
 ## ⚡️ A Few Quick Facts
 
-- <img src="https://emojis.slackmojis.com/emojis/images/1450319442/24/appleinc.png?1450319442" width="20"> I'm attending the **Apple Developer Academy** in Naples
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
-  - <img src="https://emojis.slackmojis.com/emojis/images/1536476349/4627/ios.png?1536476349" width="20"> iOS/iPad OS/macOS/watchOS
-  - <img src="https://emojis.slackmojis.com/emojis/images/1450738434/245/raspberry_pi.png?1450738434" width="20"> DIY Raspberry Pi Projects
-  - <img src="https://emojis.slackmojis.com/emojis/images/1585816938/8439/new.gif?1585816938" width="20"> New technologies
+- I'm attending the **Apple Developer Academy** in Naples
+- I took part in the **Maker Faire** in Rome for a few years
+- I love **SwiftUI**
+- I enjoy working on:
+  - 📱 iOS/iPad OS/macOS/watchOS apps
+  - 🌍 Backend & network infrastructure
+  - 📟 Raspberry Pi Projects
+  - 🤖 Home automation
+  - 💻 New technologies
 
-- 🎟I took part in the **Maker Faire** in Rome for a few years
 
 
-
-<details>
-  <summary>Some more stuff 😄</summary>
   
-### 🖥️ My Setup
-<img src="https://img.shields.io/badge/Apple-MacBook_Pro_2019-999999?style=for-the-badge&logo=apple&logoColor=white"> <img src="https://img.shields.io/badge/Apple-MacBook_Pro_M1-999999?style=for-the-badge&logo=apple&logoColor=white"> <img src="https://img.shields.io/badge/Chrome-555555.svg?&style=for-the-badge&logo=google-chrome&logoColor=FABC0C"> <img src="https://img.shields.io/badge/Xcode-555555?style=for-the-badge&logo=xcode&logoColor=007ACC"> <img src="https://img.shields.io/badge/VS Code-555555?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC"> <img src="https://img.shields.io/badge/Terminal-555555.svg?&style=for-the-badge&logo=powershell&logoColor=white"> <img src="https://img.shields.io/badge/Telegram-555555?style=for-the-badge&logo=telegram&logoColor=007ACC"> <img src="https://img.shields.io/badge/Spotify-555555.svg?&style=for-the-badge&logo=spotify&logoColor=1ED760"> 
+### ⚙️ My skills
 
-### ⚙️ Some Tool and Tech I use
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
-<code><img height="30" src="https://avatars0.githubusercontent.com/u/1525981?s=200&v=4"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://avatars3.githubusercontent.com/u/18133?s=200&v=4"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png"></code>
-  
-</details>
+![](https://img.shields.io/badge/Swift-informational?style=flat&logo=Swift&logoColor=white&color=7680D2)
+![](https://img.shields.io/badge/SwiftUI-informational?style=flat&logo=swift&logoColor=white&color=7680D2)
+![](https://img.shields.io/badge/Python-informational?style=flat&logo=Python&logoColor=white&color=7680D2)
+![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=7680D2)
+![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=html5&logoColor=white&color=7680D2)
+![](https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&logoColor=white&color=7680D2)
+![](https://img.shields.io/badge/CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=7680D2)
+![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=7680D2)
+<summary><b> What I am learning </b></summary>
+<br>
 
+![](https://img.shields.io/badge/Next.JS-informational?style=flat&logo=next.js&logoColor=white&color=7680D2)
+![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&color=7680D2)
+![](https://img.shields.io/badge/Tailwind_CSS-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=7680D2)
+![](https://img.shields.io/badge/Flutter-informational?style=flat&logo=flutter&logoColor=white&color=7680D2)
+![](https://img.shields.io/badge/Sass-informational?style=flat&logo=Sass&logoColor=white&color=7680D2)
+<br>
+<b>My tools </b>
 
+![](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=7680D2)
+![](https://img.shields.io/badge/NGINX-informational?style=flat&logo=nginx&logoColor=white&color=7680D2)
+![](https://img.shields.io/badge/NPM-informational?style=flat&logo=npm&logoColor=white&color=7680D2)
+![](https://img.shields.io/badge/Postman-informational?style=flat&logo=Postman&logoColor=white&color=7680D2)
+![](https://img.shields.io/badge/Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=7680D2)
+![](https://img.shields.io/badge/GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=7680D2)
+![](https://img.shields.io/badge/Xcode-informational?style=flat&logo=xcode&logoColor=white&color=7680D2)
+![](https://img.shields.io/badge/VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=7680D2)
+![](https://img.shields.io/badge/RaspberryPi-informational?style=flat&logo=raspberrypi&logoColor=white&color=7680D2)
+![](https://img.shields.io/badge/Java-informational?style=flat&logo=Java&logoColor=white&color=7680D2)
 
+---
 ![Profile Views](https://komarev.com/ghpvc/?username=MattiaFochesato)
