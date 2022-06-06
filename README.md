@@ -1,4 +1,4 @@
-<h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I am Mattia</a>
+<h1>Hi, I am Mattia</a>
 </h1>
 
 
