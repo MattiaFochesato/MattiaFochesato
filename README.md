@@ -2,13 +2,14 @@
 </h1>
 
 
-I am a **freelance** developer who loves his job. I **graduated**🎓 from the University of Verona, and now I’m attending the **Apple Developer Academy** in Naples.<br/><br/>
+I am a **freelance** developer who loves his job. I **graduated**🎓 from the University of Verona, and I have attended the **Apple Developer Academy**🍏 in Naples.<br/><br/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mattia-fochesato-9b2091126/)](https://www.linkedin.com/in/mattia-fochesato-9b2091126/)
 
 ## ⚡️ A Few Quick Facts
 
-- I'm attending the **Apple Developer Academy** in Naples
+- I have attendend the **Apple Developer Academy** in Naples
+- I have won the WWDC22 Swift Student Challenge
 - I took part in the **Maker Faire** in Rome for a few years
 - I love **SwiftUI**
 - I enjoy working on:
@@ -17,7 +18,6 @@ I am a **freelance** developer who loves his job. I **graduated**🎓 from the U
   - 📟 Raspberry Pi Projects
   - 🤖 Home automation
   - 💻 New technologies
-
 
 
   
