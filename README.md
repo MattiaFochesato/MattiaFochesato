@@ -2,7 +2,7 @@
 </h1>
 
 
-I am a **freelance** developer who loves his job. I **graduated**🎓 from the University of Verona, and I have attended the **Apple Developer Academy**🍏 in Naples.<br/><br/>
+I am a mobile developer who loves his job. I **graduated**🎓 from the University of Verona, and I have attended the **Apple Developer Academy**🍏 in Naples.<br/><br/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mattia-fochesato-9b2091126/)](https://www.linkedin.com/in/mattia-fochesato-9b2091126/)
 
